@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 7      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Miri Kim                |   
+| Martin Liu              |   
+| Mariem Ouertatani               |   
+| Riya Sharma                |   
 
 
 **Table of Contents**
@@ -38,7 +38,10 @@ functional testing before this lab
 
 # High-level description of the exploratory testing plan
 
-Text…
+- Scope: core functionalities such as account validation and withdrawals
+- Objective: find critical bugs and ensure system requirements are met
+- Strategy: breadth-first approach to quickly identify any errors from common paths for all functions. This is to ensure that the system at least delivers the basic requirements for an ATM. A second round of tests will occur afterwards to catch exceptional paths.
+- Reporting: use bug reporting tool; DevOps to keeps records of bugs found in testing
 
 # Comparison of exploratory and manual functional testing
 
